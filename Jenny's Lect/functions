@@ -1,0 +1,17 @@
+''' There is a 2 steps to defina a function that is
+ 01 Define a function with "def" keyword
+ 02 Call the function using its name
+syntaxt - def function_name(parameter):
+            function_body
+            return expression 
+02 fuctions
+i. Built-in Function -- print()
+ii. User-Defined Function -- lovexcode()
+            
+            
+'''
+def lovexcode():
+    print("I love Code!")
+    print("by, LORD OF CODE")
+lovexcode()
+lovexcode()
